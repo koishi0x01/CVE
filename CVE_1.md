@@ -74,7 +74,7 @@ Partially verified affected addresses:
 For the complete list, refer to the end of the document.
 
 ### (3) Asset Ownership Proof
-The following methods confirm asset ownership by Raisecom Technology Development Co., Ltd.:
+The following methods confirm asset ownership by Raisecom Technology Co., Ltd.:
 
 + Accessing [http://ip/down.php](http://ip/down.php) reveals device manufacturer information.
 + ![](https://cdn.nlark.com/yuque/0/2025/png/38476061/1739028352712-fe47eefd-5a67-4980-be98-fdc85af9061f.png)
